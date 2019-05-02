@@ -31,6 +31,7 @@
 - git
 - Docker
 - MySQL
+- EC-CUBE
 
 ## 言語
 
@@ -40,6 +41,11 @@
   - かんたんな聞き取りのみ可能（4か月の短期留学経験）
 
 ## やったことはないが興味があるもの
+
+- GCP
+- Vue
+- Bootstrap
+- Firebase
 
 ## 職務経歴
 
