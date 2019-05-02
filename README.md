@@ -6,8 +6,10 @@
 |---|-----|
 |Name|佐藤　貴之（さとう　たかゆき）|
 |Blog||
-|Twitter|[@takayuki2496(https://twitter.com/takayuki2496)|
+|Twitter|@takayuki2496(https://twitter.com/takayuki2496)|
+|Qiita|@takayuki170(https://qiita.com/takayuki170)|
 |Wantedly||
+
 
 
 ## スキル
@@ -16,6 +18,7 @@
 - Html/css
 - JavaScript（実務で約1年）
 - Java(研修で2か月)
+- Python（学部の卒業制作で3か月）
 
 ### フレームワーク
 
@@ -36,8 +39,6 @@
 - 英語
   - かんたんな聞き取りのみ可能（4か月の短期留学経験）
 
-## 強み
-
 ## やったことはないが興味があるもの
 
 ## 職務経歴
@@ -53,20 +54,8 @@
 - 自社プラットフォームの新機能開発（画像投稿付きプロフィール）
 
 ## 課外活動
-
-### 社外プロジェクト
-* [運営に携わっているコミュニティ](そのコミュニティのconnpassやカンファレンスページのリンクとか)
-* [副業で携わっているサービス](そのサービスのランディングページのリンクとか)
+- Raspberry PiとPythonで計測した温度・湿度の自動TweetBotの作成
+- CMSで飲食店のHP作成（https://omaenchi.jimdofree.com/）
 
 ### 過去の登壇資料
-* [Speaker Deck](Speaker Deckの自分の資料のページとか)
-
-### 受賞歴
-* [イベント名と受賞した賞](イベントのランディングページのリンクや、結果がわかる記事など)
-
-### 執筆歴
-* [書籍の名前](Amazonのリンクとか)
-* [Qiita](Qiitaの自分のプロフィールのリンクとか)
-* [ネットメディアの記事](記事のリンクとか)
-* [SoftwareDesignやWEB+DBのこの月の特集](その月のアーカイブのリンクとか)
-* [技術系同人誌](boothのリンクとか自分のサイトの紹介リンクとか)
+* [Laravel Docker](社内向け勉強会の資料)
